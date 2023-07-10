@@ -5,6 +5,7 @@
 header{
     background-color: bisque;
     height: 460px;
+    margin-bottom: 80px;
 }
 .heading{
     display: flex;
@@ -33,3 +34,25 @@ header{
 .img{
     padding-top: 18px;
 }
+.banner{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: floralwhite;
+    margin-bottom: 50px;
+    height: 320px;
+    gap: 2px;
+}
+.okk{
+    padding-top: 100px;
+    padding-left: 80px;
+}
+.banner-head{
+    font-weight: 25px;
+}
+.done{
+    padding-right: 140px;
+    padding-top: 40px;
+}
+
+
