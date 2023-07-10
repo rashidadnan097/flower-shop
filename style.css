@@ -65,12 +65,12 @@ header{
 .flower-photo{
     display: flex;
     text-align: center;
-    margin: 20px 40px 40px 100px;
+    margin: 40px 110px 100px 150px;
     justify-content: space-around;
 
 }
 .baje{
-    margin: 50px 50px 50px 100px;
+    margin: 80px 110px 60px 150px;
     text-align: center;
     background-image: url("flower asset/Rectangle\ 9.png");
     height: 300px;
@@ -85,6 +85,15 @@ header{
 .back{
     margin-bottom: 60px;
 }
-
+.input input[type="email"]
+{
+    padding: 12px 35px 12px 12px;
+    margin-right: 5px;
+    color: #757575;
+    background-color: white;
+    border-radius: 5px;
+    border: 0;
+    width: 50%;
+}
 
 
