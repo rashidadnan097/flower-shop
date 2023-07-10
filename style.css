@@ -1,0 +1,35 @@
+*{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: bisque;
+    height: 460px;
+}
+.heading{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 100px;
+    gap: 20px;
+}
+.text{
+    padding-top: 80px;
+}
+.first-h{
+    font-size: 35px;
+}
+.first-para{
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 15px;
+}
+.btn{
+    background-color: crimson;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.img{
+    padding-top: 18px;
+}
