@@ -39,7 +39,7 @@ header{
     justify-content: space-around;
     text-align: center;
     background-color: floralwhite;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     height: 320px;
     gap: 2px;
 }
@@ -53,6 +53,21 @@ header{
 .done{
     padding-right: 140px;
     padding-top: 40px;
+}
+.flower{
+    text-align: center;
+}
+.flower-para{
+    font-size: 10px;
+    color: gray;
+    
+}
+.flower-photo{
+    display: flex;
+    text-align: center;
+    margin: 20px 40px 40px 100px;
+    justify-content: space-around;
+
 }
 
 
