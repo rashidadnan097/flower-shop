@@ -95,5 +95,39 @@ header{
     border: 0;
     width: 50%;
 }
+.blog{
+    text-align: center;
+    font-size: 30px;
+}
+.blog-side{
+    background-color: bisque;
+    height: 460px;
+}
+.blog{
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+.blog-main{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 170px 20px 170px;
+    gap: 80px;
+}
+.blog-left{
+    border: 15px solid white;
+    padding: 10px 10px 10px 10px;
+}
+.blog-right{
+    border: 15px solid white;
+    padding: 10px 25px 10px 10px;
+}
+.blog-para{
+    color: gray;
+}
+.blog-btn{
+    border-radius: 15px;
+    border: none;
+    padding: 7px 15px;
+}
 
 
