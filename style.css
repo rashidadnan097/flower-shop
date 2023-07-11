@@ -129,5 +129,27 @@ header{
     border: none;
     padding: 7px 15px;
 }
+footer{
+    height: 280px;
+    background-color: black;
+    color: white;
+}
+.last-part{
+    text-align: center;
+    padding-top: 65px;
+}
+.full{
+    color: brown;
+}
+.foot-para{
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 24px;
+}
+.last-para{
+    font-size: 8px;
+    color:darkgray;
+}
+
 
 
