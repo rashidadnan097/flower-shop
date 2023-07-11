@@ -34,6 +34,23 @@ header{
 .img{
     padding-top: 18px;
 }
+.logo{
+    height: 200px;
+    background-color: beige;
+    margin: 80px 130px;
+}
+.logo-main{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 70px;
+    padding-bottom: 20px;
+}
+.logo-para{
+    margin-top: 2px;
+    font-size: 15px;
+    color: grey;
+}
 .banner{
     display: flex;
     justify-content: space-around;
