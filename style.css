@@ -18,6 +18,7 @@ header{
 }
 .first-h{
     font-size: 35px;
+    color: #272727;
 }
 .first-para{
     font-size: 12px;
@@ -33,6 +34,46 @@ header{
 }
 .img{
     padding-top: 18px;
+}
+.bonus-head{
+     color: #272727;
+     text-align: center;
+     font-family: Lato;
+     font-size: 30px;
+     font-weight: 600;
+     margin-bottom: 5px;
+}
+.bonus-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400; 
+    margin-bottom: 40px; 
+}
+.bonus-img{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 100px 40px 100px;
+    
+}
+.bonus1{
+    width: 250px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 30px 10px 0px 10px ;
+    border-radius: 300px 300px 0px 0px;
+}
+.bonus2{
+    background: rgba(71, 125, 17, 0.15) ;
+    padding: 30px 20px 0px 20px ;
+    border-radius: 300px 300px 0px 0px;
+    width: 230px;
+}
+.bonus3{
+    padding: 40px 0px 0px 0px ;
+    border-radius: 300px 300px 0px 0px;
+    width: 280px;
+    background: rgba(13, 232, 243, 0.15);
 }
 .logo{
     height: 200px;
